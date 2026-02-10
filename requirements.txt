@@ -1,6 +1,5 @@
-pandas 
-scikit-learn==2.15.0
-tensorflow
+pandas
 numpy
-matplotlib
-scikeras
+tensorflow
+scikit-learn==1.5.2
+streamlit
